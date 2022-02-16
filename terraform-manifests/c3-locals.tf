@@ -18,6 +18,7 @@ locals {
     Tag2 = "Terraform-Cloud-Demo1-Workspace-Locked"
     Tag3 = "Terraform-Cloud-Demo1-VCS-Demo"
     Tag4 = "Terraform-Cloud-Demo1-Auto-Apply"
+    Tag5 = "Notification-Testing"
 
   }
 } 
